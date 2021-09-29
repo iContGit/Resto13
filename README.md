@@ -1,4 +1,4 @@
-# Resto13
+# Reto13
 Elaborado por:
 
 Johan Sebastian Gómez
